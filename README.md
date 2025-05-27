@@ -1,1 +1,5 @@
-[![arika0093's GitHub stats](https://github-readme-stats.vercel.app/api?username=arika0093)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arika0093&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arika0093&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arika0093&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arika0093&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arika0093&theme=algolia&utcOffset=9)
