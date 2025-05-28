@@ -1,5 +1,3 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arika0093&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arika0093&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arika0093&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arika0093&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arika0093&theme=algolia&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arika0093&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arika0093&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arika0093&theme=react&utcOffset=9)
