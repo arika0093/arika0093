@@ -1,3 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arika0093&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arika0093&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arika0093&theme=react&utcOffset=9)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/arika0093?cardType=level-alternate&theme=react&fontFamily=JetBrains%20Mono&preferLogin=true&Points.IndirectStars=0)](https://git.io/awesome-stats-card)
