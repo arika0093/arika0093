@@ -1,1 +1,1 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/arika0093?cardType=level-alternate&theme=react&fontFamily=Ubuntu%20Sans%20Mono&preferLogin=false&Points.IndirectStars=0)](https://git.io/awesome-stats-card)
+
